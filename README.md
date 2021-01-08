@@ -8,7 +8,7 @@
 
 ## Description
 
-
+### This project is built using React JS and serves as a way to learn more about myself as a developer.
 
 ## Run Project
 
